@@ -1,0 +1,12 @@
+node_modules/
+venv/
+.idea/
+*.pyc
+website/file_cache/
+website/static/charts
+website/static/images
+website/static/.webassets-cache
+website/static/related_files
+website/static/js/vue-build.js
+website/static/js/vue-build.js.map
+website/static/main_bundle.js
